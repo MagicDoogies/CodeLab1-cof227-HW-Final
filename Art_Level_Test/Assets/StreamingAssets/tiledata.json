@@ -1,0 +1,29 @@
+{//I will not be taking criticism on this JSON list. I like to suffer and be sad. Thank you for your time.
+	"Tileset": [
+		{
+			"Xpos": 0,
+			"Ypos": 0,
+			"Type": "FlowerTile1",
+		},
+		{
+			"Xpos": 1,
+			"Ypos": 1,
+			"Type": "GrassTile1",
+		},
+		{
+			"Xpos": 1,
+			"Ypos": 2,
+			"Type": "FlowerTile1",
+		},
+		{
+			"Xpos": 0,
+			"Ypos": 0,
+			"Type": "Character",
+		},
+		{
+			"Xpos": 4,
+			"Ypos": 2,
+			"Type": "StoneColumn",
+		}
+	]
+}
